@@ -14,7 +14,7 @@ This project focuses on classifying Amazon product reviews into positive and neg
 Python version: 3.10.12
 
 ### Data
-Data is download from kaggle. \n
+Data is download from kaggle. \
 In the dataset, class 1 is the negative and class 2 is the positive.
 https://www.kaggle.com/code/yacharki/binary-classification-amazon-reviews-84-lstm/input 
 
