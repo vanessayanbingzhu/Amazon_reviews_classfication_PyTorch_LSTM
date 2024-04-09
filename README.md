@@ -14,7 +14,9 @@ This project focuses on classifying Amazon product reviews into positive and neg
 Python version: 3.10.12
 
 ### Data
-The project utilizes a dataset comprising Amazon customer reviews, categorized into training, validation, and testing sets for model development. Access the data in the `data/` directory.
+Data is download from kaggle
+In the dataset, class 1 is the negative and class 2 is the positive.
+https://www.kaggle.com/code/yacharki/binary-classification-amazon-reviews-84-lstm/input 
 
 ### LSTM Model and Training
 The core of this project is an LSTM model built with PyTorch, designed to capture long-term dependencies in text data for accurate sentiment classification.
