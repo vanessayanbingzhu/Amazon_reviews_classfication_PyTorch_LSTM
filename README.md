@@ -1,4 +1,4 @@
-# Amazon Reviews Classification
+# Amazon Reviews Classification。
 
 ## Introduction
 This project focuses on classifying Amazon product reviews into positive and negative categories using LSTM. By analyzing the sentiment of customer reviews, we can gain insights into consumer satisfaction and product quality. This repository contains all the necessary code and datasets to train and evaluate the sentiment analysis model.
